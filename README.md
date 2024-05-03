@@ -1,6 +1,6 @@
 # Voxel-Based 3D Reconstruction
-![alt text](https://github.com/aalexa201222/Camera-geometric-calibration/blob/0e4242d545020719d763b59ef6e785b60f815b09/calibration.jpg?raw=true)
-
+![alt text](https://github.com/aalexa201222/Voxel-based-3D-reconstruction/blob/dfde0d2bd96b0f4fb716dd5719a7691113896738/flow.png?raw=true)
+https://github.com/aalexa201222/Voxel-based-3D-reconstruction/blob/dfde0d2bd96b0f4fb716dd5719a7691113896738/flow.png
 ## Overview
 This project focuses on 3D reconstruction using a multi-camera setup to calibrate and generate voxel-based models of dynamic scenes. The primary goals include calibrating camera intrinsics and extrinsics, performing background subtraction, and implementing a silhouette-based voxel reconstruction algorithm. This project is part of an advanced course in computer vision, emphasizing practical implementation of theoretical concepts.
 
