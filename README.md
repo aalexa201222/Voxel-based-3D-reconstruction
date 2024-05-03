@@ -22,3 +22,5 @@ git clone https://github.com/aalexa201222/Camera-geometric-calibration.git
 ## Contributors
 [Andreas Alexandrou](https://www.linkedin.com/in/andreas-alexandrou-056528242) <br />
 Sotiris Zenios
+## Thanks
+- stanfortonski - https://github.com/stanfortonski - for providing such a great codebase.
