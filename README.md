@@ -17,7 +17,7 @@ This project focuses on 3D reconstruction using a multi-camera setup to calibrat
 
 ## Installation
 Clone the repository to your local machine:
-git clone https://github.com/aalexa201222/Camera-geometric-calibration.git
+git clone [https://github.com/aalexa201222/Camera-geometric-calibration.git](https://github.com/aalexa201222/Voxel-based-3D-reconstruction/blob/main/README.md)
 
 ## Contributors
 [Andreas Alexandrou](https://www.linkedin.com/in/andreas-alexandrou-056528242) <br />
